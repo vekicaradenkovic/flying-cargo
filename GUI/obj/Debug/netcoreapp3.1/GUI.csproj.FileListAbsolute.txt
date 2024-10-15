@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\flyingcargo\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\Admin\source\repos\flyingcargo\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\Admin\source\repos\flyingcargo\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\Admin\source\repos\flyingcargo\GUI\obj\Debug\netcoreapp3.1\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\flyingcargo\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\flyingcargo\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\Admin\source\repos\flyingcargo\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\flyingcargo\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\Admin\source\repos\flyingcargo\GUI\obj\Debug\netcoreapp3.1\GUI.pdb

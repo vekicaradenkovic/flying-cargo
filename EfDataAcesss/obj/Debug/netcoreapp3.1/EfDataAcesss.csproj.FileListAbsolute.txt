@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\bin\Debug\netcoreapp3.1\EfDataAcesss.deps.json
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\bin\Debug\netcoreapp3.1\EfDataAcesss.runtimeconfig.json
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\bin\Debug\netcoreapp3.1\EfDataAcesss.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\bin\Debug\netcoreapp3.1\EfDataAcesss.dll
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\bin\Debug\netcoreapp3.1\EfDataAcesss.pdb
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\obj\Debug\netcoreapp3.1\EfDataAcesss.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\obj\Debug\netcoreapp3.1\EfDataAcesss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\obj\Debug\netcoreapp3.1\EfDataAcesss.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\obj\Debug\netcoreapp3.1\EfDataAcesss.AssemblyInfo.cs
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\obj\Debug\netcoreapp3.1\EfDataAcesss.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\obj\Debug\netcoreapp3.1\EfDataAcesss.csproj.CopyComplete
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\obj\Debug\netcoreapp3.1\EfDataAcesss.dll
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\obj\Debug\netcoreapp3.1\EfDataAcesss.pdb
+C:\Users\Admin\source\repos\flyingcargo\EfDataAcesss\obj\Debug\netcoreapp3.1\EfDataAcesss.genruntimeconfig.cache
